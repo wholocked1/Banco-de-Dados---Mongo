@@ -97,3 +97,4 @@ erDiagram
 Mockaroo: https://www.mockaroo.com <br>
 dbeaver: https://dbeaver.io <br>
 cockroach labs: https://www.cockroachlabs.com <br>
+https://products.aspose.app/cells/conversion/sql-to-json
