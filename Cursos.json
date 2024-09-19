@@ -1,0 +1,26 @@
+[
+ {
+  "nome": "Artes",
+  "duracao": "1",
+  "id_departamento": "07",
+  "id_curso": "01"
+ },
+ {
+  "nome": "Marketing",
+  "duracao": "3",
+  "id_departamento": "03",
+  "id_curso": "03"
+ },
+ {
+  "nome": "Gestão",
+  "duracao": "2",
+  "id_departamento": "02",
+  "id_curso": "02"
+ },
+ {
+  "nome": "Arquitetura",
+  "duracao": "4",
+  "id_departamento": "05",
+  "id_curso": "04"
+ }
+]

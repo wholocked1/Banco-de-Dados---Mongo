@@ -1,0 +1,596 @@
+[
+ {
+  "id_prof": "7358",
+  "codigo": "DI103",
+  "semestre": "2",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "7358",
+  "codigo": "MR103",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "7358",
+  "codigo": "PG212",
+  "semestre": "1",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "7358",
+  "codigo": "AV104",
+  "semestre": "1",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "7358",
+  "codigo": "DI103",
+  "semestre": "1",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "7358",
+  "codigo": "AV101",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "7358",
+  "codigo": "DI103",
+  "semestre": "1",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "7358",
+  "codigo": "AV101",
+  "semestre": "2",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "7358",
+  "codigo": "AV103",
+  "semestre": "2",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "7358",
+  "codigo": "MR103",
+  "semestre": "2",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "3023",
+  "codigo": "MR107",
+  "semestre": "2",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "4568",
+  "codigo": "MR112",
+  "semestre": "2",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "4568",
+  "codigo": "PG205",
+  "semestre": "1",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "3023",
+  "codigo": "MR109",
+  "semestre": "1",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "3023",
+  "codigo": "MR306",
+  "semestre": "1",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "3023",
+  "codigo": "MR107",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "4568",
+  "codigo": "PG209",
+  "semestre": "2",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "4568",
+  "codigo": "PG207",
+  "semestre": "1",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "4568",
+  "codigo": "PG102",
+  "semestre": "1",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "3023",
+  "codigo": "MR112",
+  "semestre": "1",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "4568",
+  "codigo": "DI406",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "4568",
+  "codigo": "MR305",
+  "semestre": "2",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "3023",
+  "codigo": "MR109",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "3023",
+  "codigo": "MR112",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "3023",
+  "codigo": "MR305",
+  "semestre": "2",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "4568",
+  "codigo": "PG103",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "4568",
+  "codigo": "PG112",
+  "semestre": "2",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "4568",
+  "codigo": "MR101",
+  "semestre": "1",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "4568",
+  "codigo": "PG104",
+  "semestre": "1",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "4568",
+  "codigo": "PG203",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "1673",
+  "codigo": "MR114",
+  "semestre": "1",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "9852",
+  "codigo": "MR204",
+  "semestre": "2",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "9852",
+  "codigo": "MR204",
+  "semestre": "2",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "1673",
+  "codigo": "MR302",
+  "semestre": "2",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "9852",
+  "codigo": "MR304",
+  "semestre": "2",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "9852",
+  "codigo": "MR207",
+  "semestre": "1",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "9852",
+  "codigo": "MR108",
+  "semestre": "2",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "1673",
+  "codigo": "MR114",
+  "semestre": "1",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "1673",
+  "codigo": "MR108",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "9852",
+  "codigo": "MR111",
+  "semestre": "2",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "9852",
+  "codigo": "MR301",
+  "semestre": "2",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "9852",
+  "codigo": "MR114",
+  "semestre": "1",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "1673",
+  "codigo": "MR108",
+  "semestre": "2",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "1673",
+  "codigo": "MR304",
+  "semestre": "2",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "9852",
+  "codigo": "MR111",
+  "semestre": "1",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "4481",
+  "codigo": "PG105",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "4481",
+  "codigo": "PG107",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "3677",
+  "codigo": "PG105",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "3677",
+  "codigo": "AV106",
+  "semestre": "2",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "4481",
+  "codigo": "PG210",
+  "semestre": "2",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "4481",
+  "codigo": "PG111",
+  "semestre": "1",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "4481",
+  "codigo": "AV102",
+  "semestre": "1",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "3677",
+  "codigo": "DI402",
+  "semestre": "1",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "4481",
+  "codigo": "PG111",
+  "semestre": "1",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "4481",
+  "codigo": "PG109",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "3677",
+  "codigo": "AV105",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "4481",
+  "codigo": "MR206",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "4481",
+  "codigo": "DI402",
+  "semestre": "2",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "4481",
+  "codigo": "PG107",
+  "semestre": "1",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "4481",
+  "codigo": "MR206",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "3677",
+  "codigo": "DI304",
+  "semestre": "2",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "3677",
+  "codigo": "PG111",
+  "semestre": "1",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "4481",
+  "codigo": "PG210",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "3677",
+  "codigo": "PG105",
+  "semestre": "1",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "3677",
+  "codigo": "PG204",
+  "semestre": "2",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "1793",
+  "codigo": "DI306",
+  "semestre": "1",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "1793",
+  "codigo": "DI207",
+  "semestre": "2",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "9711",
+  "codigo": "DI102",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "9711",
+  "codigo": "DI403",
+  "semestre": "2",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "9711",
+  "codigo": "DI305",
+  "semestre": "1",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "9711",
+  "codigo": "DI305",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "1793",
+  "codigo": "DI307",
+  "semestre": "1",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "9711",
+  "codigo": "DI102",
+  "semestre": "1",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "1793",
+  "codigo": "DI306",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "9711",
+  "codigo": "DI203",
+  "semestre": "2",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "1793",
+  "codigo": "DI102",
+  "semestre": "1",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "1793",
+  "codigo": "DI403",
+  "semestre": "2",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "1793",
+  "codigo": "DI207",
+  "semestre": "1",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "1793",
+  "codigo": "DI404",
+  "semestre": "2",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "1793",
+  "codigo": "DI302",
+  "semestre": "2",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "3477",
+  "codigo": "MR102",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "3477",
+  "codigo": "MR105",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "3477",
+  "codigo": "MR303",
+  "semestre": "1",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "3477",
+  "codigo": "MR104",
+  "semestre": "1",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "3477",
+  "codigo": "DI105",
+  "semestre": "1",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "3477",
+  "codigo": "MR104",
+  "semestre": "2",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "3477",
+  "codigo": "MR105",
+  "semestre": "2",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "3477",
+  "codigo": "MR102",
+  "semestre": "1",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "3477",
+  "codigo": "MR303",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "5275",
+  "codigo": "AV109",
+  "semestre": "2",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "5275",
+  "codigo": "AV108",
+  "semestre": "1",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "5275",
+  "codigo": "AV109",
+  "semestre": "2",
+  "ano": "2023"
+ },
+ {
+  "id_prof": "5275",
+  "codigo": "AV107",
+  "semestre": "1",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "5275",
+  "codigo": "AV107",
+  "semestre": "1",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "5275",
+  "codigo": "AV109",
+  "semestre": "1",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "5275",
+  "codigo": "AV109",
+  "semestre": "2",
+  "ano": "2024"
+ },
+ {
+  "id_prof": "5275",
+  "codigo": "AV108",
+  "semestre": "1",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "5275",
+  "codigo": "DI202",
+  "semestre": "1",
+  "ano": "2022"
+ },
+ {
+  "id_prof": "5275",
+  "codigo": "AV108",
+  "semestre": "2",
+  "ano": "2023"
+ }
+]
