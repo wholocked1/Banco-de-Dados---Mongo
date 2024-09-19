@@ -11,11 +11,11 @@ Estamos usando a plataforma MongoDB para construir o banco de dados de forma gra
 O código no arquivo 'tabelas.json' está as tabelas criadas para cada uma das partes do diagrama.<br><br>
 O código no arquivo 'ALTER.json' está as alter tables que são usadas para poder pegar chave estrangeira das outras tabelas. <br><br>
 O código no arquivo 'ALUNO.json' está as informações criadas aleatoriamente usando a ferramenta [Mockaroo]([url](https://www.mockaroo.com)) para criar as informações para serem carregadas no banco de dados.<br><br>
-O código no arquivo 'PROFESSOR.json' está as informações criadas aleatoriamente usando a ferramenta Mockaroo para criar informações aleatórias para serem carregadas no banco de dados.<br><br>
+O código no arquivo 'Professor.json' está as informações criadas aleatoriamente usando a ferramenta Mockaroo para criar informações aleatórias para serem carregadas no banco de dados.<br><br>
 O código no arquivo 'DISCIPLINAS.json' está as informações construídas a mão para gerar as disciplinas de cada curso para serem carregadas no banco de dados. No sistema terá os cursos de durações diferentes (1 semestre, 2 semestres, 3 semestres e 4 semestres).<br><br>
-O código no arquivo 'CURSO.json' está as informações criadas manualmente dos cursos que estarão disponíveis nessa faculdade ficticia para serem carregadas no banco de dados. <br><br>
+O código no arquivo 'Curso.json' está as informações criadas manualmente dos cursos que estarão disponíveis nessa faculdade ficticia para serem carregadas no banco de dados. <br><br>
 O código no arquivo 'DEPARTAMENTO.json' está as informações que foram construídas a mão para gerar os departamentos que dará cada aula para serem carregados no banco de dados. <br><br>
-O código no arquivo 'HIST_PROF.json' está as informações referentes ao histórico de aulas dada pelos professores de um departamento gerados aleatoriamento usando a ferramenta Mockaroo para criar as informações de forma controlada e aleatória para serem carregadas no banco de dados. <br><br>
+O código no arquivo 'Hist_Professor.json' está as informações referentes ao histórico de aulas dada pelos professores de um departamento gerados aleatoriamento usando a ferramenta Mockaroo para criar as informações de forma controlada e aleatória para serem carregadas no banco de dados. <br><br>
 O código no arquivo 'MATRIZ.json' está as informações que linkam as informações presentes no curso com as informações das disciplinas para serem carregados no banco de dados. Esse código foi criado a mão para melhor controle.<br><br>
 O código no arquivo 'TCC.json' está as informações que dos TCCs, como título, id e id do professor para carregar no banco de dados. Ela foi criada de forma controlada pela plataforma Mockaroo.<br><br>
 O código no arquivo 'HIST_ALUNO.json' está as informações de histórico do aluno com as notas, semestre, ano, id do aluno e código da disciplina. Esse arquivo foi criado a mão.<br><br>
