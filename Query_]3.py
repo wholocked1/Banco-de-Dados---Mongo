@@ -19,4 +19,4 @@ while True:
         aluno = db["Hist_Aluno"]
         item = aluno.find()
         tab = pd.DataFrame(item)
-        print(tab)
+        print(tab.info())
