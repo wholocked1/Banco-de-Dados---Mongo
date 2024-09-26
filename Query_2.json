@@ -1,0 +1,1 @@
+db.Hist_Professor.find({id_prof: ObjectId('66ecae55360fa8661b083fed')})
