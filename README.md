@@ -6,9 +6,10 @@
 - Jéssica Martins de Jesus - 22.124.096-3
 <br><br>
 
-**Atenção na hora de realizar as Querys!!**
+# **Atenção na hora de realizar as Querys!!**
 **Até o arquivo estando em Python é necessário o `pip install pymongo` na máquina que for usar, sendo ela virtual ou física. Se essa instalação não for feita, ela não conseguirá conectar no banco de dados!**
 
+# Explicação
 Estamos usando a plataforma MongoDB para construir o banco de dados de forma gratuita e para colocar as informações e testar o código que estamos implementando estamos usando a ferramenta DBeaver.<br><br>
 O código no arquivo 'tabelas.json' está as tabelas criadas para cada uma das partes do diagrama.<br><br>
 O código no arquivo 'ALTER.json' está as alter tables que são usadas para poder pegar chave estrangeira das outras tabelas. <br><br>
