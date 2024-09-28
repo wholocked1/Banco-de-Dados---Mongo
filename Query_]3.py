@@ -44,7 +44,7 @@ while True:
         item = aluno.find()
         tab = pd.DataFrame(item)
         print(tab[tab.formado == "true"].filter(items=['_id', 'nome', 'ciclo']))
-    if(op == 4):
+    if(op == 4): #parcialmente feito, não está linkando com o professor direito
         dep = db['Departamento']
         item = dep.find()
         tab = pd.DataFrame(item)
