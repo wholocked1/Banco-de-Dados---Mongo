@@ -45,6 +45,7 @@ while True:
         tab = pd.DataFrame(item)
         print(tab[tab.formado == "true"].filter(items=['_id', 'nome', 'ciclo']))
     if(op == 4): #parcialmente feito, não está linkando com o professor direito
+        # colocamos a tabela departamento como string, e deu certo :O
         dep = db['Departamento']
         item = dep.find()
         tab = pd.DataFrame(item)
@@ -52,5 +53,23 @@ while True:
         prof = db['Professor']
         item2 = prof.find()
         other = pd.DataFrame(item2)
+        other["_id"] = other['_id'].astype("string")
         d = tab.join(other.set_index('_id'), on = 'id_prof', how = 'left', lsuffix="_dep", rsuffix="_prof")
         print(d)
+    if(op == 5):
+        # não terminado query fizemos o primeiro join, não fizemos o segundo e esta dando erro no key id_prof :(
+        aluno = db['Aluno']
+        item = aluno.find()
+        tab = pd.DataFrame(item)
+        tab["id_tcc"] = tab['id_tcc'].astype("string")
+        tcc = db['TCC']
+        item2 = tcc.find()
+        other = pd.DataFrame(item2)
+        other["_id"] = other['_id'].astype("string")
+        d = tab.join(other.set_index('_id'), on = 'id_tcc', how = 'left', lsuffix="_aluno", rsuffix="_tcc")
+        prof = db['Professor']
+        item3 = prof.find()
+        other2 = pd.DataFrame(item3)
+        other2["_id"] = other2['_id'].astype("string")
+        g = tab.join(other2.set_index('_id'), on= 'id_prof', how= "left", lsuffix="_d", rsuffix="_prof")
+        print(g)
