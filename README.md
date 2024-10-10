@@ -4,6 +4,7 @@
 - Ana Carolina Cogo Nami - 22.124.084-9<br>
 - Enzo Lima Cassin - 22.124.083-1
 - Jéssica Martins de Jesus - 22.124.096-3
+- João Vitor Flôres  - 11.120.313-9
 <br><br>
 
 # **Atenção na hora de realizar as Querys!!**
@@ -22,7 +23,7 @@ O código no arquivo 'Hist_Professor.json' está as informações referentes ao 
 O código no arquivo 'MATRIZ.json' está as informações que linkam as informações presentes no curso com as informações das disciplinas para serem carregados no banco de dados. Esse código foi criado a mão para melhor controle.<br><br>
 O código no arquivo 'TCC.json' está as informações que dos TCCs, como título, id e id do professor para carregar no banco de dados. Ela foi criada de forma controlada pela plataforma Mockaroo.<br><br>
 O código no arquivo 'HIST_ALUNO.json' está as informações de histórico do aluno com as notas, semestre, ano, id do aluno e código da disciplina. Esse arquivo foi criado a mão.<br><br>
-Os arquivos 'Query_x.json' são arquivos de querys que foram criados para os propósitos que estão comentados no começo do arquivo. Todo os arquivos foram escritos a mão.<br><br>
+O arquivo "Querys.py" está as querys com um tipo de interface pelo terminal que você pode escolher qual query que deseja realizar na ordem que está documentado ao decorrer do código.<br><br>
 
 
 **Diagrama relacional:**
