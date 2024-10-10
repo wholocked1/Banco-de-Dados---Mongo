@@ -1,0 +1,402 @@
+[
+    {
+        "nome": "Jana Smythin",
+        "id_aluno": "8490",
+        "ciclo": "1",
+        "formado": "true",
+        "id_tcc": "3094",
+        "id_curso": "01"
+    },
+    {
+        "nome": "Olav Oxe",
+        "id_aluno": "7960",
+        "ciclo": "3",
+        "formado": "true",
+        "id_tcc": "7262",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Bobinette Tuffell",
+        "id_aluno": "3959",
+        "ciclo": "3",
+        "formado": "false",
+        "id_tcc": "2989",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Iorgos McClancy",
+        "id_aluno": "1530",
+        "ciclo": "4",
+        "formado": "true",
+        "id_tcc": "2283",
+        "id_curso": "04"
+    },
+    {
+        "nome": "Deck Holme",
+        "id_aluno": "1540",
+        "ciclo": "3",
+        "formado": "false",
+        "id_tcc": "6476",
+        "id_curso": "04"
+    },
+    {
+        "nome": "Sheffie Skidmore",
+        "id_aluno": "7994",
+        "ciclo": "3",
+        "formado": "true",
+        "id_tcc": "1611",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Winni Durrant",
+        "id_aluno": "6884",
+        "ciclo": "3",
+        "formado": "true",
+        "id_tcc": "2973",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Jess Christophersen",
+        "id_aluno": "1209",
+        "ciclo": "1",
+        "formado": "true",
+        "id_tcc": "5380",
+        "id_curso": "01"
+    },
+    {
+        "nome": "Engracia Routh",
+        "id_aluno": "4272",
+        "ciclo": "3",
+        "formado": "false",
+        "id_tcc": "1030",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Noelyn Martusov",
+        "id_aluno": "5699",
+        "ciclo": "1",
+        "formado": "true",
+        "id_tcc": "5451",
+        "id_curso": "01"
+    },
+    {
+        "nome": "Koressa Budgey",
+        "id_aluno": "2997",
+        "ciclo": "4",
+        "formado": "true",
+        "id_tcc": "9118",
+        "id_curso": "04"
+    },
+    {
+        "nome": "Lana Brook",
+        "id_aluno": "4197",
+        "ciclo": "4",
+        "formado": "false",
+        "id_tcc": "8143",
+        "id_curso": "04"
+    },
+    {
+        "nome": "Allianora Venny",
+        "id_aluno": "9918",
+        "ciclo": "3",
+        "formado": "true",
+        "id_tcc": "5178",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Monique Lody",
+        "id_aluno": "1995",
+        "ciclo": "4",
+        "formado": "false",
+        "id_tcc": "2773",
+        "id_curso": "04"
+    },
+    {
+        "nome": "Reggie Akester",
+        "id_aluno": "2572",
+        "ciclo": "1",
+        "formado": "false",
+        "id_tcc": "7977",
+        "id_curso": "02"
+    },
+    {
+        "nome": "Ardelle Arlet",
+        "id_aluno": "1454",
+        "ciclo": "2",
+        "formado": "true",
+        "id_tcc": "2766",
+        "id_curso": "02"
+    },
+    {
+        "nome": "Gunter McWhin",
+        "id_aluno": "2918",
+        "ciclo": "2",
+        "formado": "false",
+        "id_tcc": "2996",
+        "id_curso": "02"
+    },
+    {
+        "nome": "Bill Beatey",
+        "id_aluno": "5244",
+        "ciclo": "1",
+        "formado": "false",
+        "id_tcc": "4085",
+        "id_curso": "02"
+    },
+    {
+        "nome": "Karena Cocksedge",
+        "id_aluno": "4625",
+        "ciclo": "4",
+        "formado": "true",
+        "id_tcc": "9758",
+        "id_curso": "04"
+    },
+    {
+        "nome": "Ernaline Daugherty",
+        "id_aluno": "4974",
+        "ciclo": "3",
+        "formado": "true",
+        "id_tcc": "7937",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Nichole Whorlton",
+        "id_aluno": "8387",
+        "ciclo": "2",
+        "formado": "false",
+        "id_tcc": "1773",
+        "id_curso": "04"
+    },
+    {
+        "nome": "Justino Flowerdew",
+        "id_aluno": "8533",
+        "ciclo": "1",
+        "formado": "true",
+        "id_tcc": "9171",
+        "id_curso": "01"
+    },
+    {
+        "nome": "Rosalyn Stuckley",
+        "id_aluno": "4382",
+        "ciclo": "1",
+        "formado": "true",
+        "id_tcc": "6334",
+        "id_curso": "01"
+    },
+    {
+        "nome": "Kim Rochford",
+        "id_aluno": "6630",
+        "ciclo": "3",
+        "formado": "true",
+        "id_tcc": "8344",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Haskel Tonsley",
+        "id_aluno": "1439",
+        "ciclo": "1",
+        "formado": "true",
+        "id_tcc": "2767",
+        "id_curso": "01"
+    },
+    {
+        "nome": "Elsy Vankov",
+        "id_aluno": "8985",
+        "ciclo": "3",
+        "formado": "true",
+        "id_tcc": "7630",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Meryl Rushford",
+        "id_aluno": "4451",
+        "ciclo": "2",
+        "formado": "false",
+        "id_tcc": "5547",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Sophi Britto",
+        "id_aluno": "1280",
+        "ciclo": "3",
+        "formado": "false",
+        "id_tcc": "6327",
+        "id_curso": "04"
+    },
+    {
+        "nome": "Tommy Whylie",
+        "id_aluno": "1408",
+        "ciclo": "4",
+        "formado": "false",
+        "id_tcc": "1183",
+        "id_curso": "04"
+    },
+    {
+        "nome": "Estell Carver",
+        "id_aluno": "3964",
+        "ciclo": "1",
+        "formado": "true",
+        "id_tcc": "7372",
+        "id_curso": "01"
+    },
+    {
+        "nome": "Torrence Brumpton",
+        "id_aluno": "2172",
+        "ciclo": "3",
+        "formado": "true",
+        "id_tcc": "3993",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Trever Olufsen",
+        "id_aluno": "2880",
+        "ciclo": "2",
+        "formado": "false",
+        "id_tcc": "8743",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Alphard Huegett",
+        "id_aluno": "7009",
+        "ciclo": "1",
+        "formado": "true",
+        "id_tcc": "1107",
+        "id_curso": "01"
+    },
+    {
+        "nome": "Cesaro Garmston",
+        "id_aluno": "1611",
+        "ciclo": "4",
+        "formado": "true",
+        "id_tcc": "3751",
+        "id_curso": "04"
+    },
+    {
+        "nome": "Jerome Benford",
+        "id_aluno": "9988",
+        "ciclo": "2",
+        "formado": "true",
+        "id_tcc": "7193",
+        "id_curso": "02"
+    },
+    {
+        "nome": "Herb Loads",
+        "id_aluno": "1428",
+        "ciclo": "2",
+        "formado": "false",
+        "id_tcc": "1846",
+        "id_curso": "02"
+    },
+    {
+        "nome": "Teodorico Vanderson",
+        "id_aluno": "2401",
+        "ciclo": "1",
+        "formado": "true",
+        "id_tcc": "4251",
+        "id_curso": "01"
+    },
+    {
+        "nome": "Bobbi Alltimes",
+        "id_aluno": "6423",
+        "ciclo": "3",
+        "formado": "true",
+        "id_tcc": "1208",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Tony Jenkin",
+        "id_aluno": "4252",
+        "ciclo": "3",
+        "formado": "true",
+        "id_tcc": "1572",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Shaine Beste",
+        "id_aluno": "1568",
+        "ciclo": "1",
+        "formado": "false",
+        "id_tcc": "4594",
+        "id_curso": "02"
+    },
+    {
+        "nome": "Rhona Jurkowski",
+        "id_aluno": "8557",
+        "ciclo": "3",
+        "formado": "true",
+        "id_tcc": "5049",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Jessa Sandever",
+        "id_aluno": "9590",
+        "ciclo": "4",
+        "formado": "true",
+        "id_tcc": "5447",
+        "id_curso": "04"
+    },
+    {
+        "nome": "Lora Stanney",
+        "id_aluno": "2405",
+        "ciclo": "1",
+        "formado": "true",
+        "id_tcc": "1544",
+        "id_curso": "01"
+    },
+    {
+        "nome": "Quinlan Mitchely",
+        "id_aluno": "9189",
+        "ciclo": "1",
+        "formado": "false",
+        "id_tcc": "5323",
+        "id_curso": "04"
+    },
+    {
+        "nome": "Marlin Horney",
+        "id_aluno": "6911",
+        "ciclo": "3",
+        "formado": "false",
+        "id_tcc": "3490",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Pauly Keggins",
+        "id_aluno": "8106",
+        "ciclo": "4",
+        "formado": "true",
+        "id_tcc": "1962",
+        "id_curso": "04"
+    },
+    {
+        "nome": "Liesa Butfield",
+        "id_aluno": "1577",
+        "ciclo": "3",
+        "formado": "true",
+        "id_tcc": "4490",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Salvatore Pedrielli",
+        "id_aluno": "5698",
+        "ciclo": "4",
+        "formado": "true",
+        "id_tcc": "2210",
+        "id_curso": "03"
+    },
+    {
+        "nome": "Barbee Walkington",
+        "id_aluno": "3756",
+        "ciclo": "3",
+        "formado": "false",
+        "id_tcc": "1178",
+        "id_curso": "04"
+    },
+    {
+        "nome": "Ettie Jannex",
+        "id_aluno": "2357",
+        "ciclo": "2",
+        "formado": "true",
+        "id_tcc": "4639",
+        "id_curso": "02"
+    }
+]
