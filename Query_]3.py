@@ -70,6 +70,12 @@ while True:
         prof = db['Professor']
         item3 = prof.find()
         other2 = pd.DataFrame(item3)
-        other2["_id"] = other2['_id'].astype("string")
-        g = tab.join(other2.set_index('_id'), on= 'id_prof', how= "left", lsuffix="_d", rsuffix="_prof")
-        print(g)
+        #other2["_id"] = other2['_id'].astype("string")
+        #other2["id_prof"] = other2['id_prof'].astype("string")
+        g = d.join(other2.set_index('_id'), on= 'id_prof', how= "left", rsuffix="_prof")
+        #g["id_prof_prof"] = g['id_prof'].astype("string")
+        g['nome_prof'] = g['nome_prof'].astype("string")
+        print(g.filter(items=["nome", "titulo", "nome_prof"]))
+        #print(g.info())
+        #print(other2)
+        
