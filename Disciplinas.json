@@ -1,0 +1,542 @@
+[
+    {
+        "nome": "LIBRAS",
+        "codigo": "AV101",
+        "id_departamento": "01",
+        "semestre": "1"
+    },
+    {
+        "nome": "Práticas de Ensino para a Educação Especial numa Perspectiva Inclusiva",
+        "codigo": "AV102",
+        "id_departamento": "04",
+        "semestre": "1"
+    },
+    {
+        "nome": "Currículos",
+        "codigo": "didática e Práticas Avaliativas do Ensino e da Aprendizagem",
+        "id_departamento": "AV103",
+        "semestre": "01"
+    },
+    {
+        "nome": "Política e Organização da Educação no Brasil",
+        "codigo": "AV104",
+        "id_departamento": "01",
+        "semestre": "1"
+    },
+    {
+        "nome": "Estudo das Relações Étnico-Raciais para o Ensino de História e Cultura Afro-brasileira",
+        "codigo": "Africana e Indígena",
+        "id_departamento": "AV111",
+        "semestre": "04"
+    },
+    {
+        "nome": "Psicologia da Educação e Teorias da Aprendizagem",
+        "codigo": "AV105",
+        "id_departamento": "04",
+        "semestre": "1"
+    },
+    {
+        "nome": "Estética e Filosofia da Arte",
+        "codigo": "AV106",
+        "id_departamento": "04",
+        "semestre": "1"
+    },
+    {
+        "nome": "Fundamentos da Linguagem Visual",
+        "codigo": "AV107",
+        "id_departamento": "07",
+        "semestre": "1"
+    },
+    {
+        "nome": "Tecnologias Digitais e Expressões Artísticas Visuais",
+        "codigo": "AV108",
+        "id_departamento": "07",
+        "semestre": "1"
+    },
+    {
+        "nome": "Arte Conceitual",
+        "codigo": "Instalações e Arte Urbana",
+        "id_departamento": "AV109",
+        "semestre": "07"
+    },
+    {
+        "nome": "Arte Brasileira na formação da Identidade Nacional",
+        "codigo": "AV110",
+        "id_departamento": "07",
+        "semestre": "1"
+    },
+    {
+        "nome": "Teoria e Fundamentos de Gestão",
+        "codigo": "MR101",
+        "id_departamento": "02",
+        "semestre": "1"
+    },
+    {
+        "nome": "Tecnologia da Informação",
+        "codigo": "MR102",
+        "id_departamento": "06",
+        "semestre": "1"
+    },
+    {
+        "nome": "Pensamento Critico e Comunicação",
+        "codigo": "MR103",
+        "id_departamento": "01",
+        "semestre": "1"
+    },
+    {
+        "nome": "Introdução à Contabilidade",
+        "codigo": "MR104",
+        "id_departamento": "06",
+        "semestre": "1"
+    },
+    {
+        "nome": "Matemática Aplicada",
+        "codigo": "MR105",
+        "id_departamento": "06",
+        "semestre": "1"
+    },
+    {
+        "nome": "Meio Ambiente e Sustentabilidade",
+        "codigo": "MR106",
+        "id_departamento": "04",
+        "semestre": "1"
+    },
+    {
+        "nome": "Projeto Multidisciplinar – Introdução à Gestão",
+        "codigo": "MR107",
+        "id_departamento": "02",
+        "semestre": "1"
+    },
+    {
+        "nome": "Marketing",
+        "codigo": "MR108",
+        "id_departamento": "03",
+        "semestre": "1"
+    },
+    {
+        "nome": "Comportamento do Consumidor",
+        "codigo": "MR109",
+        "id_departamento": "02",
+        "semestre": "1"
+    },
+    {
+        "nome": "Ambiente Legal de Negócios",
+        "codigo": "MR110",
+        "id_departamento": "02",
+        "semestre": "1"
+    },
+    {
+        "nome": "Planejamento de Marketing",
+        "codigo": "MR111",
+        "id_departamento": "03",
+        "semestre": "1"
+    },
+    {
+        "nome": "Economia de Empresas",
+        "codigo": "MR112",
+        "id_departamento": "02",
+        "semestre": "1"
+    },
+    {
+        "nome": "Gestão de Projetos",
+        "codigo": "MR113",
+        "id_departamento": "02",
+        "semestre": "1"
+    },
+    {
+        "nome": "Projeto Multidisciplinar – Marketing",
+        "codigo": "MR114",
+        "id_departamento": "03",
+        "semestre": "1"
+    },
+    {
+        "nome": "Marketing Digital",
+        "codigo": "MR201",
+        "id_departamento": "03",
+        "semestre": "2"
+    },
+    {
+        "nome": "Fundamentos de E-commerce e E-business",
+        "codigo": "MR202",
+        "id_departamento": "02",
+        "semestre": "2"
+    },
+    {
+        "nome": "Ética",
+        "codigo": "Cidadania e Responsabilidade Social",
+        "id_departamento": "MR203",
+        "semestre": "04"
+    },
+    {
+        "nome": "Comunicação em Redes Sociais",
+        "codigo": "MR204",
+        "id_departamento": "03",
+        "semestre": "2"
+    },
+    {
+        "nome": "Plataforma de E-commerce",
+        "codigo": "MR205",
+        "id_departamento": "02",
+        "semestre": "2"
+    },
+    {
+        "nome": "História e Cultura Afro-brasileira e Indígena",
+        "codigo": "MR206",
+        "id_departamento": "04",
+        "semestre": "2"
+    },
+    {
+        "nome": "Projeto Multidisciplinar – Comércio Eletrônico e Mídias Digitais",
+        "codigo": "MR207",
+        "id_departamento": "02",
+        "semestre": "2"
+    },
+    {
+        "nome": "Branding",
+        "codigo": "MR301",
+        "id_departamento": "03",
+        "semestre": "3"
+    },
+    {
+        "nome": "Publicidade",
+        "codigo": "Propaganda e Design",
+        "id_departamento": "MR302",
+        "semestre": "03"
+    },
+    {
+        "nome": "Probabilidade e Estatística",
+        "codigo": "MR303",
+        "id_departamento": "06",
+        "semestre": "3"
+    },
+    {
+        "nome": "Estratégias de Marketing",
+        "codigo": "MR304",
+        "id_departamento": "03",
+        "semestre": "3"
+    },
+    {
+        "nome": "Planejamento Estratégico de Vendas",
+        "codigo": "MR305",
+        "id_departamento": "02",
+        "semestre": "3"
+    },
+    {
+        "nome": "Empreendedorismo",
+        "codigo": "MR306",
+        "id_departamento": "02",
+        "semestre": "3"
+    },
+    {
+        "nome": "Projeto Multidisciplinar Final e Trabalho de Conclusão de Curso",
+        "codigo": "MR307",
+        "id_departamento": "03",
+        "semestre": "3"
+    },
+    {
+        "nome": "Gestão de Pessoas – Relações Humanas",
+        "codigo": "PG101",
+        "id_departamento": "02",
+        "semestre": "1"
+    },
+    {
+        "nome": "Gestão Mercadológica",
+        "codigo": "PG102",
+        "id_departamento": "02",
+        "semestre": "1"
+    },
+    {
+        "nome": "Fundamentos de Gestão Empresarial",
+        "codigo": "PG103",
+        "id_departamento": "02",
+        "semestre": "1"
+    },
+    {
+        "nome": "Projeto Integrador",
+        "codigo": "PG104",
+        "id_departamento": "02",
+        "semestre": "1"
+    },
+    {
+        "nome": "Direito",
+        "codigo": "PG105",
+        "id_departamento": "04",
+        "semestre": "1"
+    },
+    {
+        "nome": "Projetos de Pesquisa e Metodologia",
+        "codigo": "PG106",
+        "id_departamento": "04",
+        "semestre": "1"
+    },
+    {
+        "nome": "Fundamentos de Finanças",
+        "codigo": "PG107",
+        "id_departamento": "04",
+        "semestre": "1"
+    },
+    {
+        "nome": "Gestão de Projetos",
+        "codigo": "PG108",
+        "id_departamento": "02",
+        "semestre": "1"
+    },
+    {
+        "nome": "Meio Ambiente e Sociedade – Relações Afro Descendentes",
+        "codigo": "PG109",
+        "id_departamento": "04",
+        "semestre": "1"
+    },
+    {
+        "nome": "Fundamentos de Planejamento Estratégico nas organizações",
+        "codigo": "PG110",
+        "id_departamento": "02",
+        "semestre": "1"
+    },
+    {
+        "nome": "Ética e Cidadania",
+        "codigo": "PG111",
+        "id_departamento": "04",
+        "semestre": "1"
+    },
+    {
+        "nome": "Gestão da Qualidade",
+        "codigo": "PG112",
+        "id_departamento": "02",
+        "semestre": "1"
+    },
+    {
+        "nome": "Fundamentos de Estrutura Organizacional",
+        "codigo": "PG113",
+        "id_departamento": "02",
+        "semestre": "1"
+    },
+    {
+        "nome": "Empreendedorismo e Inovação",
+        "codigo": "PG114",
+        "id_departamento": "03",
+        "semestre": "1"
+    },
+    {
+        "nome": "Empresas Sistêmicas",
+        "codigo": "PG201",
+        "id_departamento": "02",
+        "semestre": "2"
+    },
+    {
+        "nome": "Formação de Preços",
+        "codigo": "PG202",
+        "id_departamento": "02",
+        "semestre": "2"
+    },
+    {
+        "nome": "Processos e Unidades Estratégicas de Negócios",
+        "codigo": "PG203",
+        "id_departamento": "02",
+        "semestre": "2"
+    },
+    {
+        "nome": "Fundamentos Contábeis e Tributários",
+        "codigo": "PG204",
+        "id_departamento": "04",
+        "semestre": "2"
+    },
+    {
+        "nome": "Logística Empresarial",
+        "codigo": "PG205",
+        "id_departamento": "02",
+        "semestre": "2"
+    },
+    {
+        "nome": "Operações de manufatura e serviços",
+        "codigo": "PG206",
+        "id_departamento": "02",
+        "semestre": "2"
+    },
+    {
+        "nome": "Gestão de custos nos processos",
+        "codigo": "PG207",
+        "id_departamento": "02",
+        "semestre": "2"
+    },
+    {
+        "nome": "Mapeamento Informatizado de processos",
+        "codigo": "PG208",
+        "id_departamento": "02",
+        "semestre": "2"
+    },
+    {
+        "nome": "Consultoria e Negócios",
+        "codigo": "PG209",
+        "id_departamento": "02",
+        "semestre": "2"
+    },
+    {
+        "nome": "Políticas de Crédito e Empréstimos",
+        "codigo": "PG210",
+        "id_departamento": "04",
+        "semestre": "2"
+    },
+    {
+        "nome": "Tomadas de decisões gerenciais",
+        "codigo": "PG211",
+        "id_departamento": "02",
+        "semestre": "2"
+    },
+    {
+        "nome": "LIBRAS",
+        "codigo": "PG212",
+        "id_departamento": "01",
+        "semestre": "2"
+    },
+    {
+        "nome": "CORES E PERCEPÇÃO VISUAL",
+        "codigo": "DI101",
+        "id_departamento": "07",
+        "semestre": "1"
+    },
+    {
+        "nome": "COMPOSIÇÃO E FORMA",
+        "codigo": "DI102",
+        "id_departamento": "05",
+        "semestre": "1"
+    },
+    {
+        "nome": "LIBRAS",
+        "codigo": "DI103",
+        "id_departamento": "01",
+        "semestre": "1"
+    },
+    {
+        "nome": "SOCIEDADE",
+        "codigo": "IDENTIDADES E TERRITÓRIOS",
+        "id_departamento": "DI104",
+        "semestre": "04"
+    },
+    {
+        "nome": "EXPRESSÃO GRÁFICA",
+        "codigo": "DI105",
+        "id_departamento": "06",
+        "semestre": "1"
+    },
+    {
+        "nome": "METODOLOGIA DE PROJETO EM DESIGN",
+        "codigo": "DI201",
+        "id_departamento": "05",
+        "semestre": "2"
+    },
+    {
+        "nome": "HISTÓRIA DAS ARTES",
+        "codigo": "DI202",
+        "id_departamento": "07",
+        "semestre": "2"
+    },
+    {
+        "nome": "PROJETO DE INTERIORES: RESIDENCIAL",
+        "codigo": "DI203",
+        "id_departamento": "05",
+        "semestre": "2"
+    },
+    {
+        "nome": "ITINERÁRIO EXTENSIONISTA I",
+        "codigo": "DI204",
+        "id_departamento": "05",
+        "semestre": "2"
+    },
+    {
+        "nome": "DESENHO TÉCNICO E INFORMÁTICA APLICADA AO DESIGN DE INTERIORES",
+        "codigo": "DI205",
+        "id_departamento": "07",
+        "semestre": "2"
+    },
+    {
+        "nome": "ERGONOMIA",
+        "codigo": "DI206",
+        "id_departamento": "05",
+        "semestre": "2"
+    },
+    {
+        "nome": "CENOGRAFIA",
+        "codigo": "DI207",
+        "id_departamento": "05",
+        "semestre": "2"
+    },
+    {
+        "nome": "TEORIA E HISTÓRIA DA ARTE E DO DESIGN",
+        "codigo": "DI301",
+        "id_departamento": "07",
+        "semestre": "3"
+    },
+    {
+        "nome": "PROJETO DE ARQUITETURA: DIMENSÕES E PROPORÇÕES",
+        "codigo": "DI302",
+        "id_departamento": "05",
+        "semestre": "3"
+    },
+    {
+        "nome": "MATERIAIS E ACABAMENTOS PARA DESIGN DE INTERIORES",
+        "codigo": "DI303",
+        "id_departamento": "05",
+        "semestre": "3"
+    },
+    {
+        "nome": "CONFORTO AMBIENTAL",
+        "codigo": "DI304",
+        "id_departamento": "04",
+        "semestre": "3"
+    },
+    {
+        "nome": "INSTALAÇÕES E EQUIPAMENTOS ELÉTRICOS E HIDRÁULICOS",
+        "codigo": "DI305",
+        "id_departamento": "05",
+        "semestre": "3"
+    },
+    {
+        "nome": "PROJETO DE INTERIORES: COMERCIAL",
+        "codigo": "DI306",
+        "id_departamento": "05",
+        "semestre": "3"
+    },
+    {
+        "nome": "ITINERÁRIO EXTENSIONISTA II",
+        "codigo": "DI307",
+        "id_departamento": "05",
+        "semestre": "3"
+    },
+    {
+        "nome": "ITINERÁRIO EXTENSIONISTA III",
+        "codigo": "DI401",
+        "id_departamento": "05",
+        "semestre": "4"
+    },
+    {
+        "nome": "PSICOLOGIA E COMPORTAMENTO DO CONSUMIDOR",
+        "codigo": "DI402",
+        "id_departamento": "04",
+        "semestre": "4"
+    },
+    {
+        "nome": "PROJETO DE INTERIORES: INSTITUCIONAL",
+        "codigo": "DI403",
+        "id_departamento": "05",
+        "semestre": "4"
+    },
+    {
+        "nome": "PAISAGISMO",
+        "codigo": "DI404",
+        "id_departamento": "05",
+        "semestre": "4"
+    },
+    {
+        "nome": "ESTILO E HISTÓRIA DO MOBILIÁRIO",
+        "codigo": "DI405",
+        "id_departamento": "07",
+        "semestre": "4"
+    },
+    {
+        "nome": "EMPREENDEDORISMO E INOVAÇÃO",
+        "codigo": "DI406",
+        "id_departamento": "02",
+        "semestre": "4"
+    }
+]
