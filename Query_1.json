@@ -1,1 +1,0 @@
-db.Hist_Aluno.find({id_aluno: ObjectId(66ecab73360fa8661b05ddc8)})
