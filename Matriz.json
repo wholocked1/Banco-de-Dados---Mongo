@@ -1,0 +1,452 @@
+[
+    {
+        "codigo": "AV101",
+        "id_curso": "01",
+        "semestre": "1"
+    },
+    {
+        "codigo": "AV102",
+        "id_curso": "01",
+        "semestre": "1"
+    },
+    {
+        "codigo": "AV103",
+        "id_curso": "01",
+        "semestre": "1"
+    },
+    {
+        "codigo": "AV104",
+        "id_curso": "01",
+        "semestre": "1"
+    },
+    {
+        "codigo": "AV105",
+        "id_curso": "01",
+        "semestre": "1"
+    },
+    {
+        "codigo": "AV106",
+        "id_curso": "01",
+        "semestre": "1"
+    },
+    {
+        "codigo": "AV107",
+        "id_curso": "01",
+        "semestre": "1"
+    },
+    {
+        "codigo": "AV108",
+        "id_curso": "01",
+        "semestre": "1"
+    },
+    {
+        "codigo": "AV109",
+        "id_curso": "01",
+        "semestre": "1"
+    },
+    {
+        "codigo": "AV110",
+        "id_curso": "01",
+        "semestre": "1"
+    },
+    {
+        "codigo": "AV111",
+        "id_curso": "01",
+        "semestre": "1"
+    },
+    {
+        "codigo": "MR101",
+        "id_curso": "03",
+        "semestre": "1"
+    },
+    {
+        "codigo": "MR102",
+        "id_curso": "03",
+        "semestre": "1"
+    },
+    {
+        "codigo": "MR103",
+        "id_curso": "03",
+        "semestre": "1"
+    },
+    {
+        "codigo": "MR104",
+        "id_curso": "03",
+        "semestre": "1"
+    },
+    {
+        "codigo": "MR105",
+        "id_curso": "03",
+        "semestre": "1"
+    },
+    {
+        "codigo": "MR106",
+        "id_curso": "03",
+        "semestre": "1"
+    },
+    {
+        "codigo": "MR107",
+        "id_curso": "03",
+        "semestre": "1"
+    },
+    {
+        "codigo": "MR108",
+        "id_curso": "03",
+        "semestre": "1"
+    },
+    {
+        "codigo": "MR109",
+        "id_curso": "03",
+        "semestre": "1"
+    },
+    {
+        "codigo": "MR110",
+        "id_curso": "03",
+        "semestre": "1"
+    },
+    {
+        "codigo": "MR111",
+        "id_curso": "03",
+        "semestre": "1"
+    },
+    {
+        "codigo": "MR112",
+        "id_curso": "03",
+        "semestre": "1"
+    },
+    {
+        "codigo": "MR113",
+        "id_curso": "03",
+        "semestre": "1"
+    },
+    {
+        "codigo": "MR114",
+        "id_curso": "03",
+        "semestre": "1"
+    },
+    {
+        "codigo": "MR201",
+        "id_curso": "03",
+        "semestre": "2"
+    },
+    {
+        "codigo": "MR202",
+        "id_curso": "03",
+        "semestre": "2"
+    },
+    {
+        "codigo": "MR203",
+        "id_curso": "03",
+        "semestre": "2"
+    },
+    {
+        "codigo": "MR204",
+        "id_curso": "03",
+        "semestre": "2"
+    },
+    {
+        "codigo": "MR205",
+        "id_curso": "03",
+        "semestre": "2"
+    },
+    {
+        "codigo": "MR206",
+        "id_curso": "03",
+        "semestre": "2"
+    },
+    {
+        "codigo": "MR207",
+        "id_curso": "03",
+        "semestre": "2"
+    },
+    {
+        "codigo": "MR301",
+        "id_curso": "03",
+        "semestre": "3"
+    },
+    {
+        "codigo": "MR302",
+        "id_curso": "03",
+        "semestre": "3"
+    },
+    {
+        "codigo": "MR303",
+        "id_curso": "03",
+        "semestre": "3"
+    },
+    {
+        "codigo": "MR304",
+        "id_curso": "03",
+        "semestre": "3"
+    },
+    {
+        "codigo": "MR305",
+        "id_curso": "03",
+        "semestre": "3"
+    },
+    {
+        "codigo": "MR306",
+        "id_curso": "03",
+        "semestre": "3"
+    },
+    {
+        "codigo": "MR307",
+        "id_curso": "03",
+        "semestre": "3"
+    },
+    {
+        "codigo": "PG101",
+        "id_curso": "02",
+        "semestre": "1"
+    },
+    {
+        "codigo": "PG102",
+        "id_curso": "02",
+        "semestre": "1"
+    },
+    {
+        "codigo": "PG103",
+        "id_curso": "02",
+        "semestre": "1"
+    },
+    {
+        "codigo": "PG104",
+        "id_curso": "02",
+        "semestre": "1"
+    },
+    {
+        "codigo": "PG105",
+        "id_curso": "02",
+        "semestre": "1"
+    },
+    {
+        "codigo": "PG106",
+        "id_curso": "02",
+        "semestre": "1"
+    },
+    {
+        "codigo": "PG107",
+        "id_curso": "02",
+        "semestre": "1"
+    },
+    {
+        "codigo": "PG108",
+        "id_curso": "02",
+        "semestre": "1"
+    },
+    {
+        "codigo": "PG109",
+        "id_curso": "02",
+        "semestre": "1"
+    },
+    {
+        "codigo": "PG110",
+        "id_curso": "02",
+        "semestre": "1"
+    },
+    {
+        "codigo": "PG111",
+        "id_curso": "02",
+        "semestre": "1"
+    },
+    {
+        "codigo": "PG112",
+        "id_curso": "02",
+        "semestre": "1"
+    },
+    {
+        "codigo": "PG113",
+        "id_curso": "02",
+        "semestre": "1"
+    },
+    {
+        "codigo": "PG114",
+        "id_curso": "02",
+        "semestre": "1"
+    },
+    {
+        "codigo": "PG201",
+        "id_curso": "02",
+        "semestre": "2"
+    },
+    {
+        "codigo": "PG202",
+        "id_curso": "02",
+        "semestre": "2"
+    },
+    {
+        "codigo": "PG203",
+        "id_curso": "02",
+        "semestre": "2"
+    },
+    {
+        "codigo": "PG204",
+        "id_curso": "02",
+        "semestre": "2"
+    },
+    {
+        "codigo": "PG205",
+        "id_curso": "02",
+        "semestre": "2"
+    },
+    {
+        "codigo": "PG206",
+        "id_curso": "02",
+        "semestre": "2"
+    },
+    {
+        "codigo": "PG207",
+        "id_curso": "02",
+        "semestre": "2"
+    },
+    {
+        "codigo": "PG208",
+        "id_curso": "02",
+        "semestre": "2"
+    },
+    {
+        "codigo": "PG209",
+        "id_curso": "02",
+        "semestre": "2"
+    },
+    {
+        "codigo": "PG210",
+        "id_curso": "02",
+        "semestre": "2"
+    },
+    {
+        "codigo": "PG211",
+        "id_curso": "02",
+        "semestre": "2"
+    },
+    {
+        "codigo": "PG212",
+        "id_curso": "02",
+        "semestre": "2"
+    },
+    {
+        "codigo": "DI101",
+        "id_curso": "04",
+        "semestre": "1"
+    },
+    {
+        "codigo": "DI102",
+        "id_curso": "04",
+        "semestre": "1"
+    },
+    {
+        "codigo": "DI103",
+        "id_curso": "04",
+        "semestre": "1"
+    },
+    {
+        "codigo": "DI104",
+        "id_curso": "04",
+        "semestre": "1"
+    },
+    {
+        "codigo": "DI105",
+        "id_curso": "04",
+        "semestre": "1"
+    },
+    {
+        "codigo": "DI201",
+        "id_curso": "04",
+        "semestre": "2"
+    },
+    {
+        "codigo": "DI202",
+        "id_curso": "04",
+        "semestre": "2"
+    },
+    {
+        "codigo": "DI203",
+        "id_curso": "04",
+        "semestre": "2"
+    },
+    {
+        "codigo": "DI204",
+        "id_curso": "04",
+        "semestre": "2"
+    },
+    {
+        "codigo": "DI205",
+        "id_curso": "04",
+        "semestre": "2"
+    },
+    {
+        "codigo": "DI206",
+        "id_curso": "04",
+        "semestre": "2"
+    },
+    {
+        "codigo": "DI207",
+        "id_curso": "04",
+        "semestre": "2"
+    },
+    {
+        "codigo": "DI301",
+        "id_curso": "04",
+        "semestre": "3"
+    },
+    {
+        "codigo": "DI302",
+        "id_curso": "04",
+        "semestre": "3"
+    },
+    {
+        "codigo": "DI303",
+        "id_curso": "04",
+        "semestre": "3"
+    },
+    {
+        "codigo": "DI304",
+        "id_curso": "04",
+        "semestre": "3"
+    },
+    {
+        "codigo": "DI305",
+        "id_curso": "04",
+        "semestre": "3"
+    },
+    {
+        "codigo": "DI306",
+        "id_curso": "04",
+        "semestre": "3"
+    },
+    {
+        "codigo": "DI307",
+        "id_curso": "04",
+        "semestre": "3"
+    },
+    {
+        "codigo": "DI401",
+        "id_curso": "04",
+        "semestre": "4"
+    },
+    {
+        "codigo": "DI402",
+        "id_curso": "04",
+        "semestre": "4"
+    },
+    {
+        "codigo": "DI403",
+        "id_curso": "04",
+        "semestre": "4"
+    },
+    {
+        "codigo": "DI404",
+        "id_curso": "04",
+        "semestre": "4"
+    },
+    {
+        "codigo": "DI405",
+        "id_curso": "04",
+        "semestre": "4"
+    },
+    {
+        "codigo": "DI406",
+        "id_curso": "04",
+        "semestre": "4"
+    }
+]
