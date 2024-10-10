@@ -1,0 +1,723 @@
+[
+    {
+        "id_aluno": "8490",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "5.89",
+        "codigo": "AV101"
+    },
+    {
+        "id_aluno": "8490",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "8",
+        "codigo": "AV102"
+    },
+    {
+        "id_aluno": "8490",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "9",
+        "codigo": "AV103"
+    },
+    {
+        "id_aluno": "8490",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "6.78",
+        "codigo": "AV104"
+    },
+    {
+        "id_aluno": "8490",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "5.39",
+        "codigo": "AV105"
+    },
+    {
+        "id_aluno": "8490",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "9.58",
+        "codigo": "AV106"
+    },
+    {
+        "id_aluno": "8490",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "7.8",
+        "codigo": "AV107"
+    },
+    {
+        "id_aluno": "8490",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "5.4",
+        "codigo": "AV108"
+    },
+    {
+        "id_aluno": "8490",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "8.92",
+        "codigo": "AV109"
+    },
+    {
+        "id_aluno": "8490",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "10",
+        "codigo": "AV110"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "7.8",
+        "codigo": "PG101"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "8",
+        "codigo": "PG102"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "5.6",
+        "codigo": "PG103"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "10",
+        "codigo": "PG104"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "6",
+        "codigo": "PG105"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "9.2",
+        "codigo": "PG106"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "7.7",
+        "codigo": "PG107"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "5",
+        "codigo": "PG108"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "7.77",
+        "codigo": "PG109"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "5.55",
+        "codigo": "PG110"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "9.78",
+        "codigo": "PG111"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "6.67",
+        "codigo": "PG112"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "5.99",
+        "codigo": "PG113"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "6.55",
+        "codigo": "PG114"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "7",
+        "codigo": "PG201"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "8.7",
+        "codigo": "PG202"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "9.47",
+        "codigo": "PG203"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "5.87",
+        "codigo": "PG204"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "5",
+        "codigo": "PG205"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "6.87",
+        "codigo": "PG206"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "7.88",
+        "codigo": "PG207"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "8.77",
+        "codigo": "PG208"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "9.88",
+        "codigo": "PG209"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "9.24",
+        "codigo": "PG210"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "6.31",
+        "codigo": "PG211"
+    },
+    {
+        "id_aluno": "2918",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "5.11",
+        "codigo": "PG212"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "5",
+        "codigo": "MR101"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "5.8",
+        "codigo": "MR102"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "9.5",
+        "codigo": "MR103"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "6.99",
+        "codigo": "MR104"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "5.99",
+        "codigo": "MR105"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "7.58",
+        "codigo": "MR106"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "8.88",
+        "codigo": "MR107"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "8.75",
+        "codigo": "MR108"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "6.85",
+        "codigo": "MR109"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "5.98",
+        "codigo": "MR110"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "9.95",
+        "codigo": "MR111"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "8.97",
+        "codigo": "MR112"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "5.67",
+        "codigo": "MR113"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "5",
+        "codigo": "MR114"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "7",
+        "codigo": "MR201"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "7.87",
+        "codigo": "MR202"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "5.77",
+        "codigo": "MR203"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "6.12",
+        "codigo": "MR204"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "9.25",
+        "codigo": "MR205"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "9.47",
+        "codigo": "MR206"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "5.78",
+        "codigo": "MR207"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "6",
+        "codigo": "MR301"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "6.66",
+        "codigo": "MR302"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "7.26",
+        "codigo": "MR303"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "9.96",
+        "codigo": "MR304"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "5.66",
+        "codigo": "MR305"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "6.33",
+        "codigo": "MR306"
+    },
+    {
+        "id_aluno": "7960",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "10",
+        "codigo": "MR307"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "2",
+        "ano": "2022",
+        "nota": "6",
+        "codigo": "DI101"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "2",
+        "ano": "2022",
+        "nota": "8",
+        "codigo": "DI102"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "2",
+        "ano": "2022",
+        "nota": "7.6",
+        "codigo": "DI103"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "2",
+        "ano": "2022",
+        "nota": "5.55",
+        "codigo": "DI104"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "2",
+        "ano": "2022",
+        "nota": "6.98",
+        "codigo": "DI105"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "6.32",
+        "codigo": "DI201"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "9.72",
+        "codigo": "DI202"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "8.65",
+        "codigo": "DI203"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "7.77",
+        "codigo": "DI204"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "8.65",
+        "codigo": "DI205"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "5",
+        "codigo": "DI206"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "1",
+        "ano": "2023",
+        "nota": "6.55",
+        "codigo": "DI207"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "6.2",
+        "codigo": "DI301"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "7",
+        "codigo": "DI302"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "5",
+        "codigo": "DI303"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "8.65",
+        "codigo": "DI304"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "6",
+        "codigo": "DI305"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "8.98",
+        "codigo": "DI306"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "2",
+        "ano": "2023",
+        "nota": "9.78",
+        "codigo": "DI307"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "8.9",
+        "codigo": "DI401"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "9",
+        "codigo": "DI402"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "10",
+        "codigo": "DI403"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "6",
+        "codigo": "DI404"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "9.8",
+        "codigo": "DI405"
+    },
+    {
+        "id_aluno": "1530",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "10",
+        "codigo": "DI406"
+    },
+    {
+        "id_aluno": "2572",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "10",
+        "codigo": "PG101"
+    },
+    {
+        "id_aluno": "2572",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "9",
+        "codigo": "PG102"
+    },
+    {
+        "id_aluno": "2572",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "8.9",
+        "codigo": "PG103"
+    },
+    {
+        "id_aluno": "2572",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "8.7",
+        "codigo": "PG104"
+    },
+    {
+        "id_aluno": "2572",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "5.55",
+        "codigo": "PG105"
+    },
+    {
+        "id_aluno": "2572",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "7.88",
+        "codigo": "PG106"
+    },
+    {
+        "id_aluno": "2572",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "8.99",
+        "codigo": "PG107"
+    },
+    {
+        "id_aluno": "2572",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "5.98",
+        "codigo": "PG108"
+    },
+    {
+        "id_aluno": "2572",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "8.5",
+        "codigo": "PG109"
+    },
+    {
+        "id_aluno": "2572",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "5.4",
+        "codigo": "PG110"
+    },
+    {
+        "id_aluno": "2572",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "9.12",
+        "codigo": "PG111"
+    },
+    {
+        "id_aluno": "2572",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "8.12",
+        "codigo": "PG112"
+    },
+    {
+        "id_aluno": "2572",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "6.32",
+        "codigo": "PG113"
+    },
+    {
+        "id_aluno": "2572",
+        "semestre": "1",
+        "ano": "2024",
+        "nota": "7.33",
+        "codigo": "PG114"
+    }
+]
