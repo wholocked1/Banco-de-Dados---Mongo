@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "Línguas",
+        "id_departamento": "01",
+        "id_prof": "7358"
+    },
+    {
+        "nome": "Gestão",
+        "id_departamento": "02",
+        "id_prof": "3023"
+    },
+    {
+        "nome": "Marketing",
+        "id_departamento": "03",
+        "id_prof": "9852"
+    },
+    {
+        "nome": "Ciências Sociais e Jurídico",
+        "id_departamento": "04",
+        "id_prof": "3677"
+    },
+    {
+        "nome": "Arquitetura",
+        "id_departamento": "05",
+        "id_prof": "9711"
+    },
+    {
+        "nome": "Matemática",
+        "id_departamento": "06",
+        "id_prof": "3477"
+    },
+    {
+        "nome": "Artes",
+        "id_departamento": "07",
+        "id_prof": "5275"
+    }
+]
