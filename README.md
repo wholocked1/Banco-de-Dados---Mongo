@@ -1,4 +1,4 @@
-# Banco-de-Dados - Mongo
+# Banco de Dados - Mongo
 
 **Nomes:**<br>
 - Ana Carolina Cogo Nami - 22.124.084-9<br>
