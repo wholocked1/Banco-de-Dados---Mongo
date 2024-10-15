@@ -20,14 +20,14 @@ while True:
         item = aluno.find()
         tab = pd.DataFrame(item)
         #converte para string
-        tab["id_aluno"] = tab["id_aluno"].astype("string")
-        tab["codigo"] = tab["codigo"].astype("string")
+        #tab["id_aluno"] = tab["id_aluno"].astype("string")
+        #tab["codigo"] = tab["codigo"].astype("string")
         disc = db["Disciplina"] # conecta na tabela de Disciplina
         item2 = disc.find()
         other = pd.DataFrame(item2)
-        other["_id"] = other["_id"].astype("string")
-        hist = tab.join(other.set_index('_id'), on='codigo', how='left', lsuffix='_hist', rsuffix='_disciplina') #dá o join nas duas tabelas com as chaves de _id e código
-        print(hist[hist.id_aluno == '66ecab73360fa8661b05ddc8'].filter(items=['id_aluno', 'semestre_hist', 'ano', 'nota', 'nome', 'codigo_disciplina'])) #mostra somente as partes necessárias
+        other["codigo"] = other["codigo"].astype("string")
+        hist = tab.join(other.set_index('codigo'), on='codigo', how='left', lsuffix='_hist', rsuffix='_disciplina') #dá o join nas duas tabelas com as chaves de _id e código
+        print(hist[hist.id_aluno == '8490'].filter(items=['id_aluno', 'semestre_hist', 'ano', 'nota', 'codigo_hist', 'nome'])) #mostra somente as partes necessárias
     if(op == 2): # Query 2 - histórico de disciplinas ministradas por qualquer professor, com semestre e ano
         prof = db['Hist_Professor'] # conecta na tabela de Histórico do Professor
         item = prof.find()
