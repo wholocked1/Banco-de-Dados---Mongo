@@ -27,7 +27,7 @@ while True:
         other = pd.DataFrame(item2)
         other["codigo"] = other["codigo"].astype("string")
         hist = tab.join(other.set_index('codigo'), on='codigo', how='left', lsuffix='_hist', rsuffix='_disciplina') #dá o join nas duas tabelas com as chaves de _id e código
-        print(hist[hist.id_aluno == '8490'].filter(items=['id_aluno', 'semestre_hist', 'ano', 'nota', 'codigo_hist', 'nome'])) #mostra somente as partes necessárias
+        print(hist[hist.id_aluno == '8490'].filter(items=['id_aluno', 'semestre_hist', 'ano', 'nota', 'codigo', 'nome'])) #mostra somente as partes necessárias
     if(op == 2): # Query 2 - histórico de disciplinas ministradas por qualquer professor, com semestre e ano
         prof = db['Hist_Professor'] # conecta na tabela de Histórico do Professor
         item = prof.find()

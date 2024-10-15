@@ -12,10 +12,10 @@
         "semestre": "1"
     },
     {
-        "nome": "Currículos",
-        "codigo": "didática e Práticas Avaliativas do Ensino e da Aprendizagem",
-        "id_departamento": "AV103",
-        "semestre": "01"
+        "nome": "Currículos didática e Práticas Avaliativas do Ensino e da Aprendizagem",
+        "codigo": "AV103",
+        "id_departamento": "01",
+        "semestre": "1"
     },
     {
         "nome": "Política e Organização da Educação no Brasil",
@@ -24,10 +24,10 @@
         "semestre": "1"
     },
     {
-        "nome": "Estudo das Relações Étnico-Raciais para o Ensino de História e Cultura Afro-brasileira",
-        "codigo": "Africana e Indígena",
-        "id_departamento": "AV111",
-        "semestre": "04"
+        "nome": "Estudo das Relações Étnico-Raciais para o Ensino de História e Cultura Afro-brasileira, Africana e Indígena",
+        "codigo": "AV111",
+        "id_departamento": "04",
+        "semestre": "1"
     },
     {
         "nome": "Psicologia da Educação e Teorias da Aprendizagem",
@@ -54,10 +54,10 @@
         "semestre": "1"
     },
     {
-        "nome": "Arte Conceitual",
-        "codigo": "Instalações e Arte Urbana",
-        "id_departamento": "AV109",
-        "semestre": "07"
+        "nome": "Arte Conceitual, Instalações e Arte Urbana",
+        "codigo": "AV109",
+        "id_departamento": "07",
+        "semestre": "1"
     },
     {
         "nome": "Arte Brasileira na formação da Identidade Nacional",
@@ -162,10 +162,10 @@
         "semestre": "2"
     },
     {
-        "nome": "Ética",
-        "codigo": "Cidadania e Responsabilidade Social",
-        "id_departamento": "MR203",
-        "semestre": "04"
+        "nome": "Ética, Cidadania e Responsabilidade Social",
+        "codigo": "MR203",
+        "id_departamento": "04",
+        "semestre": "2"
     },
     {
         "nome": "Comunicação em Redes Sociais",
@@ -198,10 +198,10 @@
         "semestre": "3"
     },
     {
-        "nome": "Publicidade",
-        "codigo": "Propaganda e Design",
-        "id_departamento": "MR302",
-        "semestre": "03"
+        "nome": "Publicidade, Propaganda e Design",
+        "codigo": "MR302",
+        "id_departamento": "03",
+        "semestre": "3"
     },
     {
         "nome": "Probabilidade e Estatística",
@@ -408,10 +408,10 @@
         "semestre": "1"
     },
     {
-        "nome": "SOCIEDADE",
-        "codigo": "IDENTIDADES E TERRITÓRIOS",
-        "id_departamento": "DI104",
-        "semestre": "04"
+        "nome": "SOCIEDADE, IDENTIDADES E TERRITÓRIOS",
+        "codigo": "DI104",
+        "id_departamento": "04",
+        "semestre": "1"
     },
     {
         "nome": "EXPRESSÃO GRÁFICA",
