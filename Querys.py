@@ -43,7 +43,7 @@ while True:
         aluno = db['Aluno'] # conecta a tabela de aluno
         item = aluno.find()
         tab = pd.DataFrame(item)
-        print(tab[tab.formado == "true"].filter(items=['_id', 'nome', 'ciclo'])) # mostra a tabela das pessoas que já se formaram
+        print(tab[tab.formado == "true"].filter(items=['id_aluno', 'nome', 'ciclo'])) # mostra a tabela das pessoas que já se formaram
     if(op == 4): # Query 4 - listar todos os professores que são chefes de departamento, junto com o nome do departamento
         dep = db['Departamento'] # conecta a tabela de Departamento
         item = dep.find()
