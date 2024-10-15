@@ -55,8 +55,8 @@ while True:
         other = pd.DataFrame(item2)
         #tranforma a informação em string
         other["_id"] = other['_id'].astype("string")
-        d = tab.join(other.set_index('_id'), on = 'id_prof', how = 'left', lsuffix="_dep", rsuffix="_prof") #da join nas tables pelos ids _id e id_prof
-        print(d)
+        d = tab.join(other.set_index('id_prof'), on = 'id_prof', how = 'left', lsuffix="_dep", rsuffix="_prof") #da join nas tables pelos ids _id e id_prof
+        print(d.filter(items=['nome_dep', 'nome_prof']))
     if(op == 5): # Query 5 - saber quais alunos formaram um grupo de TCC e qual professor foi o orientador
         aluno = db['Aluno'] # conecta a tabela aluno
         item = aluno.find()
@@ -68,11 +68,11 @@ while True:
         other = pd.DataFrame(item2)
         #tranforma a informação em string
         other["_id"] = other['_id'].astype("string")
-        d = tab.join(other.set_index('_id'), on = 'id_tcc', how = 'left', lsuffix="_aluno", rsuffix="_tcc") # dá join por meio dos ids
+        d = tab.join(other.set_index('id_tcc'), on = 'id_tcc', how = 'left', lsuffix="_aluno", rsuffix="_tcc") # dá join por meio dos ids
         prof = db['Professor']
         item3 = prof.find()
         other2 = pd.DataFrame(item3)
-        g = d.join(other2.set_index('_id'), on= 'id_prof', how= "left", rsuffix="_prof") # dá join a partir dos ids
+        g = d.join(other2.set_index('id_prof'), on= 'id_prof', how= "left", rsuffix="_prof") # dá join a partir dos ids
         g['nome_prof'] = g['nome_prof'].astype("string")
         print(g.filter(items=["nome", "titulo", "nome_prof"]))
 
