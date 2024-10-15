@@ -20,8 +20,6 @@ while True:
         item = aluno.find()
         tab = pd.DataFrame(item)
         #converte para string
-        #tab["id_aluno"] = tab["id_aluno"].astype("string")
-        #tab["codigo"] = tab["codigo"].astype("string")
         disc = db["Disciplina"] # conecta na tabela de Disciplina
         item2 = disc.find()
         other = pd.DataFrame(item2)
@@ -39,8 +37,8 @@ while True:
         item2 = disc.find()
         other = pd.DataFrame(item2)
         other["_id"] = other["_id"].astype("string")
-        hist = tab.join(other.set_index('_id'), on='codigo', how='left', lsuffix='_hist', rsuffix='_disciplina') # dá join nas tabelas nos ids _id e código
-        print(hist[hist.id_prof == '66ecae55360fa8661b083fe9'].filter(items=['id_prof', 'semestre_hist', 'ano', 'nome', 'codigo_disciplina'])) #mostra somenta as partes necessárias
+        hist = tab.join(other.set_index('codigo'), on='codigo', how='left', lsuffix='_hist', rsuffix='_disciplina') # dá join nas tabelas nos ids _id e código
+        print(hist[hist.id_prof == '9852'].filter(items=['id_prof', 'semestre_hist', 'ano', 'nome', 'codigo_disciplina'])) #mostra somenta as partes necessárias
     if(op == 3): # Query 3 - listar alunos que já se formaram (foram aprovados em todos os cursos de uma matriz curricular) em um determinado semestre de um ano
         aluno = db['Aluno'] # conecta a tabela de aluno
         item = aluno.find()
